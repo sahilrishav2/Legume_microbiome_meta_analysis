@@ -1,0 +1,636 @@
+Sample,Developmental_stage,Soil_origin,Rhizosphere_compartments,Plant,Hypervariable_region,Study
+C_1b_N,Vegetative,Corsica,N,Medicago truncatula,V4,Brown 2020
+C_1a_S,Vegetative,Corsica,S,Medicago truncatula,V4,Brown 2020
+C_1a_R,Vegetative,Corsica,R,Medicago truncatula,V4,Brown 2020
+C_1a_N,Vegetative,Corsica,N,Medicago truncatula,V4,Brown 2020
+F_96e_S,Vegetative,France,S,Medicago truncatula,V4,Brown 2020
+F_96e_R,Vegetative,France,R,Medicago truncatula,V4,Brown 2020
+F_96e_N,Vegetative,France,N,Medicago truncatula,V4,Brown 2020
+F_96d_S,Vegetative,France,S,Medicago truncatula,V4,Brown 2020
+F_96d_R,Vegetative,France,R,Medicago truncatula,V4,Brown 2020
+F_96d_N,Vegetative,France,N,Medicago truncatula,V4,Brown 2020
+F_96c_S,Vegetative,France,S,Medicago truncatula,V4,Brown 2020
+F_96c_R,Vegetative,France,R,Medicago truncatula,V4,Brown 2020
+F_96c_N,Vegetative,France,N,Medicago truncatula,V4,Brown 2020
+F_96b_S,Vegetative,France,S,Medicago truncatula,V4,Brown 2020
+F_96b_R,Vegetative,France,R,Medicago truncatula,V4,Brown 2020
+F_96b_N,Vegetative,France,N,Medicago truncatula,V4,Brown 2020
+F_96a_S,Vegetative,France,S,Medicago truncatula,V4,Brown 2020
+F_96a_R,Vegetative,France,R,Medicago truncatula,V4,Brown 2020
+F_96a_N,Vegetative,France,N,Medicago truncatula,V4,Brown 2020
+F_27e_S,Vegetative,France,S,Medicago truncatula,V4,Brown 2020
+F_27e_R,Vegetative,France,R,Medicago truncatula,V4,Brown 2020
+F_27e_N,Vegetative,France,N,Medicago truncatula,V4,Brown 2020
+F_27d_S,Vegetative,France,S,Medicago truncatula,V4,Brown 2020
+F_27d_R,Vegetative,France,R,Medicago truncatula,V4,Brown 2020
+F_27d_N,Vegetative,France,N,Medicago truncatula,V4,Brown 2020
+F_27b_S,Vegetative,France,S,Medicago truncatula,V4,Brown 2020
+C_96d_S,Vegetative,Corsica,S,Medicago truncatula,V4,Brown 2020
+C_96d_R,Vegetative,Corsica,R,Medicago truncatula,V4,Brown 2020
+C_96d_N,Vegetative,Corsica,N,Medicago truncatula,V4,Brown 2020
+C_96c_S,Vegetative,Corsica,S,Medicago truncatula,V4,Brown 2020
+C_96c_R,Vegetative,Corsica,R,Medicago truncatula,V4,Brown 2020
+C_96c_N,Vegetative,Corsica,N,Medicago truncatula,V4,Brown 2020
+C_96b_S,Vegetative,Corsica,S,Medicago truncatula,V4,Brown 2020
+C_96b_R,Vegetative,Corsica,R,Medicago truncatula,V4,Brown 2020
+C_96b_N,Vegetative,Corsica,N,Medicago truncatula,V4,Brown 2020
+C_96a_S,Vegetative,Corsica,S,Medicago truncatula,V4,Brown 2020
+C_96a_R,Vegetative,Corsica,R,Medicago truncatula,V4,Brown 2020
+C_96a_N,Vegetative,Corsica,N,Medicago truncatula,V4,Brown 2020
+C_27e_S,Vegetative,Corsica,S,Medicago truncatula,V4,Brown 2020
+C_27e_R,Vegetative,Corsica,R,Medicago truncatula,V4,Brown 2020
+C_27e_N,Vegetative,Corsica,N,Medicago truncatula,V4,Brown 2020
+C_27d_S,Vegetative,Corsica,S,Medicago truncatula,V4,Brown 2020
+C_27d_R,Vegetative,Corsica,R,Medicago truncatula,V4,Brown 2020
+C_27d_N,Vegetative,Corsica,N,Medicago truncatula,V4,Brown 2020
+C_27c_S,Vegetative,Corsica,S,Medicago truncatula,V4,Brown 2020
+C_27c_R,Vegetative,Corsica,R,Medicago truncatula,V4,Brown 2020
+F_1e_S,Vegetative,France,S,Medicago truncatula,V4,Brown 2020
+F_1e_R,Vegetative,France,R,Medicago truncatula,V4,Brown 2020
+F_1e_N,Vegetative,France,N,Medicago truncatula,V4,Brown 2020
+F_1d_S,Vegetative,France,S,Medicago truncatula,V4,Brown 2020
+F_1d_R,Vegetative,France,R,Medicago truncatula,V4,Brown 2020
+F_1d_N,Vegetative,France,N,Medicago truncatula,V4,Brown 2020
+F_1c_S,Vegetative,France,S,Medicago truncatula,V4,Brown 2020
+F_1c_R,Vegetative,France,R,Medicago truncatula,V4,Brown 2020
+F_1c_N,Vegetative,France,N,Medicago truncatula,V4,Brown 2020
+F_1b_S,Vegetative,France,S,Medicago truncatula,V4,Brown 2020
+F_1b_R,Vegetative,France,R,Medicago truncatula,V4,Brown 2020
+F_1b_N,Vegetative,France,N,Medicago truncatula,V4,Brown 2020
+F_1a_S,Vegetative,France,S,Medicago truncatula,V4,Brown 2020
+F_1a_R,Vegetative,France,R,Medicago truncatula,V4,Brown 2020
+F_1a_N,Vegetative,France,N,Medicago truncatula,V4,Brown 2020
+C_96e_S,Vegetative,Corsica,S,Medicago truncatula,V4,Brown 2020
+C_96e_R,Vegetative,Corsica,R,Medicago truncatula,V4,Brown 2020
+C_96e_N,Vegetative,Corsica,N,Medicago truncatula,V4,Brown 2020
+F_27b_R,Vegetative,France,R,Medicago truncatula,V4,Brown 2020
+F_27b_N,Vegetative,France,N,Medicago truncatula,V4,Brown 2020
+F_27a_S,Vegetative,France,S,Medicago truncatula,V4,Brown 2020
+F_27a_R,Vegetative,France,R,Medicago truncatula,V4,Brown 2020
+F_27a_N,Vegetative,France,N,Medicago truncatula,V4,Brown 2020
+C_27c_N,Vegetative,Corsica,N,Medicago truncatula,V4,Brown 2020
+C_27b_S,Vegetative,Corsica,S,Medicago truncatula,V4,Brown 2020
+C_27b_R,Vegetative,Corsica,R,Medicago truncatula,V4,Brown 2020
+C_27b_N,Vegetative,Corsica,N,Medicago truncatula,V4,Brown 2020
+C_27a_S,Vegetative,Corsica,S,Medicago truncatula,V4,Brown 2020
+C_27a_R,Vegetative,Corsica,R,Medicago truncatula,V4,Brown 2020
+C_27a_N,Vegetative,Corsica,N,Medicago truncatula,V4,Brown 2020
+C_1e_S,Vegetative,Corsica,S,Medicago truncatula,V4,Brown 2020
+C_1e_R,Vegetative,Corsica,R,Medicago truncatula,V4,Brown 2020
+C_1e_N,Vegetative,Corsica,N,Medicago truncatula,V4,Brown 2020
+C_1d_S,Vegetative,Corsica,S,Medicago truncatula,V4,Brown 2020
+C_1d_R,Vegetative,Corsica,R,Medicago truncatula,V4,Brown 2020
+C_1d_N,Vegetative,Corsica,N,Medicago truncatula,V4,Brown 2020
+C_1c_S,Vegetative,Corsica,S,Medicago truncatula,V4,Brown 2020
+C_1c_R,Vegetative,Corsica,R,Medicago truncatula,V4,Brown 2020
+C_1c_N,Vegetative,Corsica,N,Medicago truncatula,V4,Brown 2020
+C_1b_S,Vegetative,Corsica,S,Medicago truncatula,V4,Brown 2020
+C_1b_R,Vegetative,Corsica,R,Medicago truncatula,V4,Brown 2020
+D1,Vegetative,Australia,S,Cicer arietinum,V3-V4,Zhou 2020
+E3,Vegetative,Australia,S,Cicer arietinum,V3-V4,Zhou 2020
+E2,Vegetative,Australia,S,Cicer arietinum,V3-V4,Zhou 2020
+E1,Vegetative,Australia,S,Cicer arietinum,V3-V4,Zhou 2020
+D3,Vegetative,Australia,S,Cicer arietinum,V3-V4,Zhou 2020
+D2,Vegetative,Australia,S,Cicer arietinum,V3-V4,Zhou 2020
+F4_REPLICATE2,Maturation,South Africa,S,Vigna subterranea,V3-V4,Ajilogba 2022
+F1_REPLICATE1,Maturation,South Africa,S,Vigna subterranea,V3-V4,Ajilogba 2022
+J4_REPLICATE2,Reproductive,South Africa,S,Vigna subterranea,V3-V4,Ajilogba 2022
+J1_REPLICATE1,Reproductive,South Africa,S,Vigna subterranea,V3-V4,Ajilogba 2022
+D4_REPLICATE2,Reproductive,South Africa,S,Vigna subterranea,V3-V4,Ajilogba 2022
+D1_REPLICATE1,Reproductive,South Africa,S,Vigna subterranea,V3-V4,Ajilogba 2022
+N4_REPLICATE2,Vegetative,South Africa,S,Vigna subterranea,V3-V4,Ajilogba 2022
+N1_REPLICATE1,Vegetative,South Africa,S,Vigna subterranea,V3-V4,Ajilogba 2022
+R85,Maturation,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R84,Maturation,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R83,Maturation,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R82,Maturation,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R81,Maturation,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R75,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R74,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R73,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R72,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R71,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R65,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R64,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R63,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R62,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R61,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R55,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R54,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R53,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R52,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R51,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R45,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R44,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R43,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R42,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R41,Reproductive,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R35,Vegetative,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R34,Vegetative,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R33,Vegetative,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R32,Vegetative,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R31,Vegetative,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R25,Vegetative,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R24,Vegetative,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R23,Vegetative,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R22,Vegetative,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R21,Vegetative,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R15,Vegetative,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R14,Vegetative,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R13,Vegetative,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R12,Vegetative,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+R11,Vegetative,India,S,Arachis hypogaea ,V3-V4,Hinsu 2021
+PDR2,Reproductive,China,S,Arachis hypogaea ,V3-V4,Dai 2019
+PDR3,Reproductive,China,S,Arachis hypogaea ,V3-V4,Dai 2019
+FDR1,Reproductive,China,S,Arachis hypogaea ,V3-V4,Dai 2019
+FDR2,Reproductive,China,S,Arachis hypogaea ,V3-V4,Dai 2019
+SDR2,Vegetative,China,S,Arachis hypogaea ,V3-V4,Dai 2019
+SDR3,Vegetative,China,S,Arachis hypogaea ,V3-V4,Dai 2019
+SDR1,Vegetative,China,S,Arachis hypogaea ,V3-V4,Dai 2019
+FDR3,Reproductive,China,S,Arachis hypogaea ,V3-V4,Dai 2019
+PDR1,Reproductive,China,S,Arachis hypogaea ,V3-V4,Dai 2019
+CC1ROOT1,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+CC1ROOT2,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+CC1ROOT3,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+CC1SOIL1,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+CC1SOIL2,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+CC1SOIL3,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+CC2ROOT1,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+CC2ROOT2,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+CC2ROOT3,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+CC3ROOT1,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+CC3ROOT2,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+CC3ROOT3,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+CC4ROOT1,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+CC4ROOT2,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+CC4ROOT3,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+CC5ROOT1,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+CC5ROOT2,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+CC5ROOT3,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+NS1ROOT1,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+NS1ROOT2,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+NS1ROOT3,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+NS1SOIL1,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+NS1SOIL2,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+NS1SOIL3,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+NS2ROOT1,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+NS2ROOT2,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+NS2ROOT3,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+NS2SOIL1,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+NS2SOIL2,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+NS2SOIL3,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+NS3ROOT1,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+NS3ROOT2,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+NS3ROOT3,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+NS3SOIL1,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+NS3SOIL2,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+NS3SOIL3,Maturation,Switzerland,R,Trifolium pratense ,V5-V7,Hartman 2017
+A1,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+A1.1,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+A1.2,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+M1,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+M1.1,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+M1.2,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+M1.3,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+L1,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+L1.1,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+L1.2,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+M2,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+M2.1,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+M2.2,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+M2.3,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+A2,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+A2.1,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+A2.2,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+A2.3,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+M3,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+M3.1,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+M3.2,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+M3.3,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+M4,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+M4.1,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+M4.2,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+M4.3,Reproductive,Colombia,S,Phaseolus vulgaris,V3-V4,Pérez-Jaramillo 2019
+CV6_07,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV6_06,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV6_08,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_03,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_02,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_01,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_10,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_07,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_06,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_05,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_04,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_09,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_08,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV6_08.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV5_01,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV4_08,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV4_09,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV5_01.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV5_02,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV4_04,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV4_05,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV4_06,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV4_07,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV5_03,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV5_04,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_02.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_03.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_04.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_05.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_10.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_01.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_06.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_07.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV3_01,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV3_02,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV2_05,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV2_06,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV2_07,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV2_08,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV2_01,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV2_02,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV2_03,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV2_04,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV3_06,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV3_05,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV3_04,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV3_03,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV4_01,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV3_09,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV3_08,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV3_07,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV4_03,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV4_02,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_09.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV1_08.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV2_02.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV2_01.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV2_04.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV2_03.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV2_06.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV2_05.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV2_08.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV2_07.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV3_03.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV3_04.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV3_01.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV3_02.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV3_07.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV3_08.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV3_05.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV3_06.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV3_09.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV4_01.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV5_07,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV4_09.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV4_08.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV4_07.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV4_06.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV4_05.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV4_04.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV4_03.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV4_02.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV5_02.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV6_01,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV6_04,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV6_05,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV5_03.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV5_04.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV5_05,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV5_06,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV6_07.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV6_06.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV6_02,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV6_03,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV6_03.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV6_02.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV6_05.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV6_04.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV5_06.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV5_05.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV6_01.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+CV5_07.1,Reproductive,Tennessee (USA),S,Glycine soja ,V3-V4,F. Liu 2019
+NE_215,Reproductive,Nebraska (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+NE_212,Reproductive,Nebraska (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+NE_118,Reproductive,Nebraska (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+NE_109,Reproductive,Nebraska (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+NE_416,Reproductive,Nebraska (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+NE_414,Reproductive,Nebraska (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+NE_317,Reproductive,Nebraska (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+NE_311,Reproductive,Nebraska (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+SVERC_3,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+MRF_1,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+SVERC_1,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+SVERC_2,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+CO_77203,Reproductive,Colorado (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+CO_77230,Reproductive,Colorado (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+MRF_2,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+MRF_3,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+CO_77243,Reproductive,Colorado (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+CO_77265,Reproductive,Colorado (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+CO_77256,Reproductive,Colorado (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+CO_77268,Reproductive,Colorado (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+CO_77206,Reproductive,Colorado (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+CO_77229,Reproductive,Colorado (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+WA_C3,Reproductive,Washington (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+WA_E1,Reproductive,Washington (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+WA_C1,Reproductive,Washington (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+WA_C2,Reproductive,Washington (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+WA_E2,Reproductive,Washington (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+WA_E3,Reproductive,Washington (USA),S,Phaseolus vulgaris,V4,Stopnisek 2021
+SVERC_Eclipse_V5_3_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V5_3_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V5_3_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V5_2_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V5_2_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V5_2_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V2_3_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V5_1_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V5_1_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V5_3_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V5_3_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V5_3_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V5_2_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V5_2_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V5_2_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V5_1_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V5_1_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V2_3_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V5_1_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V2_2_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_pod_1_1_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_dry_3_3_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_dry_3_2_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_dry_3_1_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_dry_2_2_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_dry_2_1_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_dry_1_2_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_dry_1_1_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_senesc_3_3_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_senesc_3_2_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V2_1_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_senesc_3_1_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_senesc_2_3_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_pod_2_2_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_pod_2_1_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_senesc_1_3_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_senesc_1_2_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_pod_1_1_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V5_3_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V5_3_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V5_3_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V5_3_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V5_2_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V5_2_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V5_2_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V5_1_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V5_1_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V5_1_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V2_3_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V2_3_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V2_3_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V2_2_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V5_3_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V2_2_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V2_2_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V2_1_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V2_1_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V2_3_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V2_3_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V2_3_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V2_2_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V2_2_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V2_2_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V5_3_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V2_1_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V2_1_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V2_1_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_flowering_pod_3_3_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_flowering_pod_3_2_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_flowering_pod_3_1_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_flowering_pod_2_3_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_flowering_pod_2_2_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_flowering_pod_2_1_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_flowering_pod_1_3_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V5_2_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_flowering_pod_1_2_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_flowering_pod_1_1_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_flowering_pod_3_2_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_flowering_pod_3_1_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_pod_2_3_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_flowering_pod_2_2_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_pod_2_1_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_pod_1_1_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_dry_3_3_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_dry_3_2_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V5_2_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_dry_3_1_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_dry_2_2_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_dry_2_1_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_dry_1_2_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_dry_1_1_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_senesc_3_3_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_senesc_3_2_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_senesc_3_1_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_senesc_2_3_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_pod_2_2_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V5_2_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_pod_2_1_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_senesc_1_3_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_senesc_1_2_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_pod_1_1_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V2_2_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V2_1_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V2_3_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVREC_CELRK_V2_2_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVREC_CELRK_V2_2_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V2_2_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V2_1_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V2_1_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_dry_3_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_dry_3_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V5_3_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_dry_3_1_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_dry_2_3_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_dry_2_2_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_dry_2_1_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_dry_1_3_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_dry_1_2_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_dry_1_1_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_dry_2_2_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_dry_2_1_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_dry_1_3_rhizoplane,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V5_3_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_dry_1_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_flow_pod_3_3_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_pod_3_2_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_flow_3_1_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_flow_pod_2_2_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_pod_2_1_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_pod_1_2_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_pod_1_1_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_flowering_pod_3_3_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_flowering_3_2_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V5_3_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_flowering_3_1_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_flowering_2_3_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_flowering_2_2_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_flowering_2_1_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_flowering_1_3_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_flowering_1_2_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_flowering_1_1_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V5_3_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V5_3_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V5_3_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V5_2_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V5_2_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V5_2_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V5_2_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V5_1_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V5_3_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V5_3_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V5_3_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V5_2_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V5_2_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V5_2_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V5_2_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V5_1_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V5_1_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V2_2_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V2_2_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V2_1_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V2_3_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V2_3_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V2_3_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V2_2_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V2_2_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V5_2_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V5_1_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V2_1_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V2_1_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_dry_3_3_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_dry_3_2_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_dry_3_1_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_dry_2_3_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_dry_2_2_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_dry_2_1_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_dry_1_3_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_dry_1_2_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V5_1_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_dry_1_1_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_dry_3_2_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_dry_3_1_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_dry_2_2_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_dry_2_1_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_dry_1_3_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_dry_1_2_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_dry_1_1_rhizosphere,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_flow_pod_3_3_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_pod_3_2_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V5_1_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_flow_3_1_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_flow_pod_2_2_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_pod_2_1_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_pod_1_2_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_pod_1_1_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_flowering_pod_3_3_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_flowering_3_2_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_flowering_3_1_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_flowering_2_3_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_flowering_2_2_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V5_1_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V2_2_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_CELRK_V2_1_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V2_3_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V2_3_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V2_3_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V2_2_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V2_2_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V2_1_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V2_3_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_V2_1_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_extracted.by.PowerSoil_124,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_extracted.by.PowerSoil_120,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_extracted.by.PowerSoil_99,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_extracted.by.PowerSoil_97,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_extracted.by.PowerSoil_63,Maturation,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_extracted.by.PowerSoil_61,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_extracted.by.PowerSoil_44,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_extracted.by.PowerSoil_36,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V5_3_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V2_2_3_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V5_3_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V5_3_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V5_2_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V5_2_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V5_2_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V5_1_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V5_1_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V5_1_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V2_3_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V2_3_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V2_2_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V2_3_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V2_2_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V2_2_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V2_2_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_V2_1_3_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V2_1_2_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V2_1_1_rhizoplane,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_flowering_pod_3_3_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_flowering_pod_3_2_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_flowering_pod_3_1_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V2_2_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_flowering_pod_2_2_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_flowering_pod_2_1_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_flowering_pod_1_3_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_flowering_pod_1_2_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_Eclipse_flowering_pod_1_1_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_flowering_pod_3_2_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_flowering_pod_3_1_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_pod_2_3_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_flowering_pod_2_2_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_pod_2_1_rhizoplane,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V2_1_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V5_1_2_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+MRF_CELRK_V5_1_1_rhizosphere,Vegetative,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_flowering_2_1_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_flowering_1_3_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_flowering_1_2_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+SVERC_Eclipse_flowering_1_1_rhizosphere,Reproductive,Michigan (USA),S,Phaseolus vulgaris,V4,Stopnisek N. 2021
+f1,Reproductive,Japan,S,Glycine max ,Complete gene,Sugiyama 2014
+f2,Reproductive,Japan,S,Glycine max ,Complete gene,Sugiyama 2014
+f3,Reproductive,Japan,S,Glycine max ,Complete gene,Sugiyama 2014
+m1,Maturation,Japan,S,Glycine max ,Complete gene,Sugiyama 2014
+m2,Maturation,Japan,S,Glycine max ,Complete gene,Sugiyama 2014
+m3,Maturation,Japan,S,Glycine max ,Complete gene,Sugiyama 2014
+v1,Vegetative,Japan,S,Glycine max ,Complete gene,Sugiyama 2014
+v2,Vegetative,Japan,S,Glycine max ,Complete gene,Sugiyama 2014
+v3,Vegetative,Japan,S,Glycine max ,Complete gene,Sugiyama 2014
+R1_Nodule_Common_bean,Vegetative,Brazil,N,Phaseolus vulgaris,V3-V4,Bender 2022
+R1_Nodule_Soybean,Vegetative,Brazil,N,Glycine max ,V3-V4,Bender 2022
+R1_Root_Common_bean,Vegetative,Brazil,R,Phaseolus vulgaris,V3-V4,Bender 2022
+R1_Root_Soybean,Vegetative,Brazil,R,Glycine max ,V3-V4,Bender 2022
+R2_Nodule_Common_bean,Vegetative,Brazil,N,Phaseolus vulgaris,V3-V4,Bender 2022
+R2_Nodule_Soybean,Vegetative,Brazil,N,Glycine max ,V3-V4,Bender 2022
+R2_Root_Common_bean,Vegetative,Brazil,R,Phaseolus vulgaris,V3-V4,Bender 2022
+R2_Root_Soybean,Vegetative,Brazil,R,Glycine max ,V3-V4,Bender 2022
+R3_Nodule_Common_bean,Vegetative,Brazil,N,Phaseolus vulgaris,V3-V4,Bender 2022
+R3_Nodule_Soybean,Vegetative,Brazil,N,Glycine max ,V3-V4,Bender 2022
+R3_Root_Common_bean,Vegetative,Brazil,R,Phaseolus vulgaris,V3-V4,Bender 2022
+R3_Root_Soybean,Vegetative,Brazil,R,Glycine max ,V3-V4,Bender 2022
+R4_Nodule_Common_bean,Vegetative,Brazil,N,Phaseolus vulgaris,V3-V4,Bender 2022
+R4_Nodule_Soybean,Vegetative,Brazil,N,Glycine max ,V3-V4,Bender 2022
+R4_Root_Common_bean,Vegetative,Brazil,R,Phaseolus vulgaris,V3-V4,Bender 2022
+R4_Root_Soybean,Vegetative,Brazil,R,Glycine max ,V3-V4,Bender 2022
+R5_Nodule_Common_bean,Vegetative,Brazil,N,Phaseolus vulgaris,V3-V4,Bender 2022
+R5_Nodule_Soybean,Vegetative,Brazil,N,Glycine max ,V3-V4,Bender 2022
+R5_Root_Common_bean,Vegetative,Brazil,R,Phaseolus vulgaris,V3-V4,Bender 2022
+R5_Root_Soybean,Vegetative,Brazil,R,Glycine max ,V3-V4,Bender 2022
+R6_Nodule_Common_bean,Vegetative,Brazil,N,Phaseolus vulgaris,V3-V4,Bender 2022
+R6_Nodule_Soybean,Vegetative,Brazil,N,Glycine max ,V3-V4,Bender 2022
+R6_Root_Common_bean,Vegetative,Brazil,R,Phaseolus vulgaris,V3-V4,Bender 2022
+R6_Root_Soybean,Vegetative,Brazil,R,Glycine max ,V3-V4,Bender 2022

@@ -7,7 +7,7 @@ conda activate qiime2-2023.5
 
 mkdir muxed-pe-barcode-in-seq
 
-mv forward.fastq.gz reverse.fastq.gz emp-paired-end-sequences
+mv forward.fastq.gz reverse.fastq.gz muxed-pe-barcode-in-seq
 
 qiime tools import   --type MultiplexedPairedEndBarcodeInSequence   --input-path muxed-pe-barcode-in-seq   --output-path multiplexed-seqs.qza
 

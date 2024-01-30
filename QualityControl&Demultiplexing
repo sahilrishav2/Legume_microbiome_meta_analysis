@@ -1,11 +1,15 @@
-## For removal of adapter contamination
+#### For removal of adapter contamination
 for i in *_1.fastq.gz; do fastp -i $i -I ${i/_1.fastq.gz/_2.fastq.gz} -o ${i%_1.fastq.gz}.out.1.fastq.gz -O ${i%_1.fastq.gz}.out.2.fastq.gz; done
 
-## For demultiplexing of amplicon data files
-qiime tools import 
---type MultiplexedPairedEndBarcodeInSequence 
---input-path muxed-pe-barcode-in-seq 
---output-path multiplexed-seqs.qza
+
+#### For demultiplexing of amplicon data files
+conda activate qiime2-2023.5
+
+mkdir muxed-pe-barcode-in-seq
+
+mv forward.fastq.gz reverse.fastq.gz emp-paired-end-sequences
+
+qiime tools import   --type MultiplexedPairedEndBarcodeInSequence   --input-path muxed-pe-barcode-in-seq   --output-path multiplexed-seqs.qza
 
 qiime cutadapt demux-paired --i-seqs multiplexed-seqs.qza --m-forward-barcodes-file U1.csv --m-forward-barcodes-column BarcodeSequence --o-per-sample-sequences per-sample-sequences.qza --o-untrimmed-sequences untrimmed-sequences.qza
 

@@ -1,18 +1,15 @@
-#### For quality control of amplicon data
-for i in *_1.fastq.gz; do fastp -i $i -I ${i/_1.fastq.gz/_2.fastq.gz} -o ${i%_1.fastq.gz}.out.1.fastq.gz -O ${i%_1.fastq.gz}.out.2.fastq.gz; done
+#### For quality check
+1)find -name '*.fastq.gz' | xargs fastqc
+2)multiqc .
 
+#### For quality processing of amplicon data
+for i in *_1.fastq.gz; do fastp -i $i -I ${i/_1.fastq.gz/_2.fastq.gz} -o ${i%_1.fastq.gz}.out.1.fastq.gz -O ${i%_1.fastq.gz}.out.2.fastq.gz; done
 
 #### For demultiplexing of amplicon data files
 conda activate qiime2-2023.5
-
 mkdir muxed-pe-barcode-in-seq
-
 mv forward.fastq.gz reverse.fastq.gz muxed-pe-barcode-in-seq
-
 qiime tools import   --type MultiplexedPairedEndBarcodeInSequence   --input-path muxed-pe-barcode-in-seq   --output-path multiplexed-seqs.qza
-
 qiime cutadapt demux-paired --i-seqs multiplexed-seqs.qza --m-forward-barcodes-file U1.csv --m-forward-barcodes-column BarcodeSequence --o-per-sample-sequences per-sample-sequences.qza --o-untrimmed-sequences untrimmed-sequences.qza
-
 mkdir extracted-reads
-
 qiime tools extract --input-path per-sample-sequences.qza --output-path extracted-reads

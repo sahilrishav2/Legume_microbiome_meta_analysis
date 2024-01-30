@@ -3,12 +3,12 @@
   
 library(corrplot)
 library(psych)
-p <- read.csv("path.csv",row.names=1)
+p <- read.csv("pathway.csv",row.names=1)
 s <- read.csv("species.csv",row.names=1)
 m1 <-corr.test(p,s,method="spearman",adjust="fdr")
 m2 <- data.frame(m1["p.adj"])
 matrix_corr <- cor(p,s,method="spearman",use="complete.obs")
-colnames(m2) <- colnames(matrix_rel_eth)
+colnames(m2) <- colnames(matrix_corr)
 m2 <- as.matrix(m2)
 str(matrix_corr)
 str(m2)
@@ -17,7 +17,7 @@ corrplot(matrix_corr,
          method = "circle",
          outline = T, 
          addgrid.col = "grey", 
-         p.mat= matrix_q,
+         p.mat= m2,
          sig.level = 0.01,
          insig ="blank", 
          addrect = 4, 

@@ -1,4 +1,4 @@
-#### For removal of adapter contamination
+#### For quality control of amplicon data
 for i in *_1.fastq.gz; do fastp -i $i -I ${i/_1.fastq.gz/_2.fastq.gz} -o ${i%_1.fastq.gz}.out.1.fastq.gz -O ${i%_1.fastq.gz}.out.2.fastq.gz; done
 
 

@@ -25,7 +25,7 @@ filtRs <- paste0(sample.names, "-R-filt.fastq.gz")
 
 ## For filtering of reads
 
-for(i in seq_along(fnFs)) { fastqPairedFilter(c(fnFs[i], fnRs[i]), c(filtFs[i], filtRs[i]), truncLen=c("#forward reads truncate position","#reverse reads truncate position"), maxN=0, maxEE=c(2,2), compress=TRUE, verbose=TRUE) }
+for(i in seq_along(fnFs)) { fastqPairedFilter(c(fnFs[i], fnRs[i]), c(filtFs[i], filtRs[i]), truncLen=c("#forward reads truncate position","#reverse reads truncate position"), maxN=0, maxEE=c(2,2), truncQ=2, compress=TRUE, verbose=TRUE) }
 
 ## Sample inference
 

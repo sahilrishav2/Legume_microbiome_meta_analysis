@@ -1,0 +1,53 @@
+##### Whole metagenome data processing
+## (A) process of removing the host contaminants from the metagenome reads
+
+conda activate bowtie2
+
+#for indexing a genome
+bowtie2-build -f genome.fa index
+
+#for aligning paired end reads
+bowtie2 -x  index  -1  _1.fastq  -2  _2.fastq  -S  *.sam
+
+#To get the paired reads that do not map to the host reference genome through bowtie
+for i in *_1.fastq; do bowtie2 -p 8 -x index \
+ -1 $i \
+ -2 ${i/_1.fastq/_2.fastq} \
+ --un-conc-gz \
+   ${i%_1.fastq}_host_removed \
+ > ${i%_1.fastq}_mapped_and_unmapped.sam; done
+ 
+ #To rename files
+ for i in *.1; do echo "mv $i ${i%_host_removed.1}_R1.fastq.gz"; done
+
+
+#For aligning paired end reads for multiple fastq files using for loop
+for i in  *_1.fastq; do  bowtie2 -p 4 -x index -1 $i -2 ${i/_1.fastq/_2.fastq}  -S ${i%_1.fastq}.sam; done
+
+#For converting sam into bam
+for i in *.sam; do samtools view -bS $i > ${i%.sam}.bam; done
+
+#For removing unaligned reads
+for i in *.bam; do samtools view -b -f 12 -F 256 $i > ${i%.bam}.s.bam; done
+
+#For keeping non host sequences
+1) for i in *.s.bam; do samtools sort -n -m 5G -@ 2 $i -o ${i%.s.bam}_sorted.bam; done
+
+2) for i in *_sorted.bam; do samtools fastq -@ 8 $i \
+  -1 ${i%_sorted.bam}_R1.fastq.gz \
+  -2 ${i%_sorted.bam}_R2.fastq.gz \
+  -0 /dev/null -s /dev/null -n; done
+  
+####### (B) identification of bacterial species and functional predictions (Alignment based method)
+
+#Reads based analysis of whole metagenome
+for i in  *_R1.fastq.gz; do metaphlan $i,${i/_R1.fastq.gz/_R2.fastq.gz} --bowtie2out ${i%_R1.fastq.gz}.bowtie2.bz2 --nproc 5 --input_type fastq -o ${i%_R1.fastq.gz}_metagenome.txt; done
+
+#for functional annotation through humann on reads based analysis method
+for i in *.fa; do humann --input $i --output ${i%.fa}; done
+
+#for merging abundance table
+merge_metaphlan_tables.py *_metagenome.txt > merged_abundance_table.txt
+
+#for merging abundance table (species)
+grep -E "s__|clade" merged_abundance_table.txt | grep -v "t__" | sed "s/^.*|//g" | sed "s/clade_name/body_site/g" | sed "s/SRS[0-9]*-//g" > merged_abundance_table_species.txt

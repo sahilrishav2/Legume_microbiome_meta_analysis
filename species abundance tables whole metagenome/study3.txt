@@ -1,0 +1,30 @@
+Species,R3,R2,R1
+Pseudomonas indica,4.9431,7.69754,96.79328
+GGB64512 SGB87014,6.85011,4.1427,0.08272
+Bacillus sp Y1,14.7793,11.67684,0
+Acinetobacter pittii,14.80519,0,0
+Leclercia adecarboxylata,0,0.23464,0
+Chryseobacterium flavum,0,5.1558,0
+Atlantibacter sp RC6,0,0,0
+Chryseobacterium geocarposphaerae,2.68412,0,0
+Bacillus sp MRMR6,0,0,0
+Stenotrophomonas maltophilia,0,0,0
+Bacillus sp DSL 17,0,0.89763,0
+Sinorhizobium meliloti,0,4.30736,1.471
+Pseudomonas sp Hp2,39.47417,7.12306,0.01725
+Olivibacter jilunii,13.9717,45.31247,0.15157
+Bordetella genomosp 4,2.49231,4.83733,0.03721
+Pseudoxanthomonas sp OG2,0,2.86654,0
+Sphingobacterium thalpophilum,0,2.48037,0
+Rhizobium sp LCM 4573,0,1.58569,0
+Nitrosospira multiformis,0,1.40785,0
+Paramesorhizobium deserti,0,0.27419,0
+Pseudomonas sp PIC25,0,0,0.40655
+Rhizobiales bacterium,0,0,0.29705
+Rheinheimera pleomorphica,0,0,0.2903
+Pseudomonas stutzeri,0,0,0.11942
+Ensifer sp MPMI2T,0,0,0.11129
+Alishewanella agri,0,0,0.09232
+Ralstonia pickettii,0,0,0.06529
+Pseudomonas sp AOB 7,0,0,0.05896
+Pseudoxanthomonas mexicana,0,0,0.00578

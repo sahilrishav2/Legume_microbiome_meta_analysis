@@ -1,0 +1,51 @@
+##### Whole metagenome data processing
+## (A) process of removing the host contaminants from the metagenome reads
+
+conda activate bowtie2
+
+#for indexing a genome
+bowtie2-build -f genome.fa index
+
+#for aligning paired end reads
+bowtie2 -x  index  -1  _1.fastq  -2  _2.fastq  -S  *.sam
+
+#To get the paired reads that do not map to the host reference genome through bowtie
+for i in *_1.fastq; do bowtie2 -p 8 -x index \
+ -1 $i \
+ -2 ${i/_1.fastq/_2.fastq} \
+ --un-conc-gz \
+   ${i%_1.fastq}_host_removed \
+ > ${i%_1.fastq}_mapped_and_unmapped.sam; done
+ 
+ #To rename files
+ for i in *.1; do echo "mv $i ${i%_host_removed.1}_R1.fastq.gz"; done
+
+
+#For aligning paired end reads for multiple fastq files using for loop
+for i in  *_1.fastq; do  bowtie2 -p 4 -x index -1 $i -2 ${i/_1.fastq/_2.fastq}  -S ${i%_1.fastq}.sam; done
+
+#For converting sam into bam
+for i in *.sam; do samtools view -bS $i > ${i%.sam}.bam; done
+
+#For removing unaligned reads
+for i in *.bam; do samtools view -b -f 12 -F 256 $i > ${i%.bam}.s.bam; done
+
+#For keeping non host sequences
+1) for i in *.s.bam; do samtools sort -n -m 5G -@ 2 $i -o ${i%.s.bam}_sorted.bam; done
+
+2) for i in *_sorted.bam; do samtools fastq -@ 8 $i \
+  -1 ${i%_sorted.bam}_R1.fastq.gz \
+  -2 ${i%_sorted.bam}_R2.fastq.gz \
+  -0 /dev/null -s /dev/null -n; done
+  
+####### (B) identification of bacterial species (Alignment based method)
+
+##### Detection of bacteria through kaiju:
+ for i in  *_R1.fastq; do kaiju -t /home/rishav/metatranscriptome/kaijudb/nodes.dmp -f /home/rishav/metatranscriptome/kaijudb/refseq/kaiju_db_refseq.fmi -i $i -j ${i/_R1.fastq/_R2.fastq} -z 120 -o tax_classification.tsv; done
+
+kaiju-addTaxonNames -t /home/rishav/metatranscriptome/kaijudb/nodes.dmp -n /home/rishav/metatranscriptome/kaijudb/names.dmp -i tax_classification.tsv -u -r phylum,species -o kaiju.names.out
+
+####### (C) Functional annotation 
+for file in *_merge.fastq.gz; do humann -i $file -o ${file%_merge.fastq.gz} --threads 40; done
+
+humann_join_tables --input . --output humann_genefamilies.tsv --file_name merge_genefamilies

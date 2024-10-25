@@ -6,9 +6,6 @@ conda activate bowtie2
 #for indexing a genome
 bowtie2-build -f genome.fa index
 
-#for aligning paired end reads
-bowtie2 -x  index  -1  _1.fastq  -2  _2.fastq  -S  *.sam
-
 #To get the paired reads that do not map to the host reference genome through bowtie
 for i in *_1.fastq; do bowtie2 -p 8 -x index \
  -1 $i \
@@ -22,21 +19,21 @@ for i in *_1.fastq; do bowtie2 -p 8 -x index \
 
 
 #For aligning paired end reads for multiple fastq files using for loop
-for i in  *_1.fastq; do  bowtie2 -p 4 -x index -1 $i -2 ${i/_1.fastq/_2.fastq}  -S ${i%_1.fastq}.sam; done
+#for i in  *_1.fastq; do  bowtie2 -p 4 -x index -1 $i -2 ${i/_1.fastq/_2.fastq}  -S ${i%_1.fastq}.sam; done
 
 #For converting sam into bam
-for i in *.sam; do samtools view -bS $i > ${i%.sam}.bam; done
+#for i in *.sam; do samtools view -bS $i > ${i%.sam}.bam; done
 
 #For removing unaligned reads
-for i in *.bam; do samtools view -b -f 12 -F 256 $i > ${i%.bam}.s.bam; done
+#for i in *.bam; do samtools view -b -f 12 -F 256 $i > ${i%.bam}.s.bam; done
 
 #For keeping non host sequences
-1) for i in *.s.bam; do samtools sort -n -m 5G -@ 2 $i -o ${i%.s.bam}_sorted.bam; done
+#1) for i in *.s.bam; do samtools sort -n -m 5G -@ 2 $i -o ${i%.s.bam}_sorted.bam; done
 
-2) for i in *_sorted.bam; do samtools fastq -@ 8 $i \
-  -1 ${i%_sorted.bam}_R1.fastq.gz \
-  -2 ${i%_sorted.bam}_R2.fastq.gz \
-  -0 /dev/null -s /dev/null -n; done
+#2) for i in *_sorted.bam; do samtools fastq -@ 8 $i \
+ # -1 ${i%_sorted.bam}_R1.fastq.gz \
+ # -2 ${i%_sorted.bam}_R2.fastq.gz \
+ # -0 /dev/null -s /dev/null -n; done
   
 ####### (B) identification of bacterial species (Alignment based method)
 

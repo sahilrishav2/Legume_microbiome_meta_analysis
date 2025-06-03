@@ -90,7 +90,7 @@ write.table(taxa.print, "ASVs_taxonomy.tsv", sep="\t", quote=F, col.names=NA)
 ## Now, we load phyloseq for further analysis of the amplicon data
 
 library(phyloseq)
-seq <- as.matrix(st.sep)+1 # for removing zeroes from the count table
+seq <- as.matrix(seqtab.nochim)+1 # for removing zeroes from the count table
 tax <- taxa
 dim(seq)
 colnames(seq) <- paste0("ASV_", "#no. of ASV ids") #for giving unique ASV Ids to each sequence

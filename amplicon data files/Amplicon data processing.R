@@ -106,5 +106,6 @@ ps1b <- subset_taxa(ps1a,Family!="Mitochondria")
 ps1 <- subset_taxa(ps1b,Kingdom!="Archaea")
 ps
 ps1
-write.table(ps1@otu_table, "ps1_ASVs_counts.tsv", sep="\t", quote=F, col.names=NA) ## writing a new count file
+count <- t(ps1@otu_table)
+write.table(count, "ps1_ASVs_counts.tsv", sep="\t", quote=F, col.names=NA) ## writing a new count file
 write.table(ps1@tax_table, "ps1_ASVs_taxonomy.tsv", sep="\t", quote=F, col.names=NA) ## writing a new taxonomy file
